@@ -30,3 +30,12 @@ C:\dev\WebMishConvertor\WebMishConvertor\obj\Debug\net8.0\refint\WebMishConverto
 C:\dev\WebMishConvertor\WebMishConvertor\obj\Debug\net8.0\WebMishConvertor.pdb
 C:\dev\WebMishConvertor\WebMishConvertor\obj\Debug\net8.0\WebMishConvertor.genruntimeconfig.cache
 C:\dev\WebMishConvertor\WebMishConvertor\obj\Debug\net8.0\ref\WebMishConvertor.dll
+C:\dev\WebMishConvertor\WebMishConvertor\obj\Debug\net8.0\WebMishConvertor.sourcelink.json
+C:\dev\WebMishConvertor\WebMishConvertor\bin\Debug\net8.0\EPPlus.dll
+C:\dev\WebMishConvertor\WebMishConvertor\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\dev\WebMishConvertor\WebMishConvertor\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\dev\WebMishConvertor\WebMishConvertor\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\dev\WebMishConvertor\WebMishConvertor\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\WebMishConvertor\WebMishConvertor\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\dev\WebMishConvertor\WebMishConvertor\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\WebMishConvertor\WebMishConvertor\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll

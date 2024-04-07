@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using WebMishConvertor.Models;
 
 namespace WebMishConvertor.Controllers
 {
@@ -13,10 +14,12 @@ namespace WebMishConvertor.Controllers
             double latitude = request.Latitude;
             double longitude = request.Longitude;
 
+            SingleDotPosition dot = new SingleDotPosition(latitude, longitude);
+
             return Ok(new
             {
-                ITMEast = latitude,
-                ITMNorth = longitude,
+                ITMEast = dot.MitEast,
+                ITMNorth = dot.MitNorth,
             });
         }
     }
