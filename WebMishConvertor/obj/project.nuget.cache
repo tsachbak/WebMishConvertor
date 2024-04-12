@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2CAbPyNX6mZgi91A39PwFQ92NjpKmnQBGWatPoLhWm2Kn3ckZ8HoYqGVo2H5tLCYnL/ZTm6Upjb3VXEh5sRl8Q==",
+  "dgSpecHash": "vhDZGyyiM/on0d5FI5GQ0/hV2NSa28vB+2ny5HIQozEdDhHjHB49/CFtoAJCUCazcNp9BubC2Ca13dETAn++Gw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\WebMishConvertor\\WebMishConvertor\\WebMishConvertor.csproj",
+  "projectFilePath": "C:\\dev\\C#_projects\\WebMishConvertor\\WebMishConvertor\\WebMishConvertor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tsach\\.nuget\\packages\\epplus\\7.1.0\\epplus.7.1.0.nupkg.sha512",
     "C:\\Users\\tsach\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",

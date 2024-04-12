@@ -1513,11 +1513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\WebMishConvertor\\WebMishConvertor\\WebMishConvertor.csproj",
+      "projectUniqueName": "C:\\dev\\C#_projects\\WebMishConvertor\\WebMishConvertor\\WebMishConvertor.csproj",
       "projectName": "WebMishConvertor",
-      "projectPath": "C:\\dev\\WebMishConvertor\\WebMishConvertor\\WebMishConvertor.csproj",
+      "projectPath": "C:\\dev\\C#_projects\\WebMishConvertor\\WebMishConvertor\\WebMishConvertor.csproj",
       "packagesPath": "C:\\Users\\tsach\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\WebMishConvertor\\WebMishConvertor\\obj\\",
+      "outputPath": "C:\\dev\\C#_projects\\WebMishConvertor\\WebMishConvertor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsach\\AppData\\Roaming\\NuGet\\NuGet.Config",
