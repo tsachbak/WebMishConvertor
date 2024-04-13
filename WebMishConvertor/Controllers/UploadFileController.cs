@@ -32,7 +32,7 @@ namespace WebMishConvertor.Controllers
             if (await TakeDataFromFile(file))
             {
                 SaveDataToDictionary();
-                return Ok("File uploaded successfully");
+                return Ok(Dots);
             }
 
             return BadRequest("Error processing file");
@@ -96,6 +96,11 @@ namespace WebMishConvertor.Controllers
             {
                 m_dots.Add(i + 1, new SingleDotPosition(m_latList[i], m_lonList[i]));
             }
+        }
+
+        private Dictionary<int, SingleDotPosition> Dots
+        {
+            get { return m_dots; }
         }
     }
 }

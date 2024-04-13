@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebMishConvertor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e89c4255457c340830a88885acdbb2dc64cc5a00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+313c4194870d5fb0bfc0c30017670a26b2685335")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebMishConvertor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebMishConvertor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
