@@ -82,6 +82,7 @@ namespace WebMishConvertor.Controllers
             }
             catch (Exception ex)
             {
+                Console.WriteLine("get exception reading the file:", ex);
                 return false;
             }
 
