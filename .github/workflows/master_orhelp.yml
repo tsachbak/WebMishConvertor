@@ -54,4 +54,4 @@ jobs:
           app-name: 'orHelp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2CAA8E82BF304FAB8B267033CCEE8295 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B46DD0B03AD5440CAB5BB1C38A395F2D }}
